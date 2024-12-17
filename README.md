@@ -48,6 +48,7 @@ To solve these challenges, a **hybrid model** combining **Graph Convolutional Ne
 ## ⚙️ **Methodology**  
 ### 📥 **Data Collection**  
 - **Sources**: NYC taxi trip data combined with **weather** and **geospatial** features.
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 ### 🛠️ **Data Preprocessing & Feature Engineering**  
 - **Outlier Removal** & **Scaling** of continuous variables.  

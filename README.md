@@ -1,5 +1,4 @@
-# 🚖 **Hybrid GCN-XGBoost Model for E-Hailing Price Prediction**  
-### 🔍 *and Genetic Algorithm for Demand-Based Allocation*
+# 🚖 **Hybrid GCN-XGBoost Model for E-Hailing Price Prediction and Genetic Algorithm for Demand-Based Allocation**
 
 ---
 

@@ -1,5 +1,7 @@
 # 🚖 **Hybrid GCN-XGBoost Model for E-Hailing Price Prediction and Genetic Algorithm for Demand-Based Allocation**
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)  [![Platform](https://img.shields.io/badge/Platform-Jupyter-orange.svg)](#)
+
 ---
 
 ## 📝 **Overview**  
